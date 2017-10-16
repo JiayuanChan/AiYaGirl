@@ -1,7 +1,7 @@
 # AiYaGirl
 爱吖妹纸 —— Retrofit + RxJava + MVP 架构 APP 体验，福利多多，不容错过<br>
 
->欢迎来到 **mvp-dagger** 分支，在这里将会用最新的 `RxJava 2`,`Dagger2` 进行 APP 重构，重构后将升级到 2.0,多谢关注！
+## >欢迎来到 **mvp-dagger** 分支，在这里将会用最新的 `RxJava 2`、 `Dagger2` 进行 APP 重构，重构后将升级到 2.0, 多谢关注！
 
 
 爱吖妹纸数据来源于代码家的[干货集中营](http://gank.io/),那么多完整的 APP, 你选择了我，这是我的幸运。<br>
