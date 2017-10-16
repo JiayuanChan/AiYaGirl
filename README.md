@@ -2,7 +2,7 @@
 爱吖妹纸 —— Retrofit + RxJava + MVP 架构 APP 体验，福利多多，不容错过<br>
 
 >欢迎来到 **mvp-dagger** 分支，在这里将会用最新的 `RxJava 2`、 `Dagger2` 进行 APP 重构，重构后将升级到 2.0, 多谢关注！
-
+>
 >你也可以点击右上角的 **watch** 选中 **watching** 来关注我的项目的最新动态！
 
 
